@@ -492,7 +492,7 @@ h1 {
   }
 */
 
-@media only screen and (min-width: 0px) and (max-width: 767px){
+@media only screen and (min-width: 415px) and (max-width: 767px){
     
     .header {
     text-align: center;
@@ -550,3 +550,47 @@ h1 {
 }
 
 
+@media only screen and (min-width: 412px) and (max-width: 414px){
+    .links {
+        margin-right: -18px;
+        padding-right: 0px;
+        text-align: center;
+        display: contents;
+        }
+}
+
+@media only screen and (min-width: 376px) and (max-width: 411px){
+    .links {
+        margin-right: -18px;
+        padding-right: 0px;
+        text-align: center;
+        display: contents;
+        }
+}
+
+@media only screen and (min-width: 361px) and (max-width: 375px){
+    .links {
+        margin-right: -18px;
+        padding-right: 0px;
+        text-align: center;
+        display: contents;
+        }
+}
+
+@media only screen and (min-width: 321px) and (max-width: 360px){
+    .links {
+        margin-right: -18px;
+        padding-right: 0px;
+        text-align: center;
+        display: contents;
+        }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 320px){
+    .links {
+        margin-right: -18px;
+        padding-right: 0px;
+        text-align: center;
+        display: contents;
+        }
+}
