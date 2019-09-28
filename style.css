@@ -60,7 +60,7 @@ a {
     width: 100%;
     border-top: solid 2px #cccccc;
     padding-top:30px;
-    padding-bottom: 50%;
+    padding-bottom: 100%;
     margin: 0px;
     clear: both;
 }
@@ -496,7 +496,7 @@ h1 {
     
     .header {
     text-align: center;
-    width: 100%;
+    width: 200%;
     padding: 20px 45px 5px 45px;
     color: white;
     background-color: #4aaaa5;
@@ -506,12 +506,15 @@ h1 {
     font-size: 2.1em;
     font-weight: bold;
     height: 5rem;
+    margin-right: -152px;
+    margin-left: -127px;
 }
 
     .links {
     margin-right: -18px;
     padding-right: 0px;
     text-align: center;
+    display: contents;
     }
 
    a {
